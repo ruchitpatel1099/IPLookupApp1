@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="IPAddressInfo" max_length="40" name="x_703566_iplookup_ipaddressinfo" type="collection">
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Country" max_length="40" name="country" type="string"/>
+        <element label="Ip address" max_length="40" name="ip_address" type="string"/>
+        <element label="Postal" max_length="40" name="postal" type="string"/>
+    </element>
+</database>
